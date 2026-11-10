@@ -1,0 +1,7 @@
+name: LinkPlugin
+version: 1.0
+main: dev.linkbot.LinkPlugin
+api-version: '1.20'
+commands:
+  link:
+    description: Get a 6-digit code to link your Discord account

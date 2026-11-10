@@ -1,0 +1,4 @@
+# Address of the bot's API (the machine where the Discord bot runs)
+api-url: "http://YOUR_BOT_HOST:3000/code"
+# Must match API_SECRET in the bot's .env
+secret: "put-a-long-random-secret-here"
